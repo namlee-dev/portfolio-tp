@@ -58,7 +58,7 @@ li {
     align-items: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
     .header {
     display: flex;
     flex-direction: row;
@@ -87,7 +87,7 @@ footer {
     padding: var(--spacing);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
     .realization__container {
         width: 50%;
     }
